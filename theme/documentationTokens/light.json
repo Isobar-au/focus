@@ -26,7 +26,7 @@
         "type": "color"
       },
       "accent": {
-        "value": "#3b82f6",
+        "value": "#ff00ff",
         "type": "color"
       }
     },
@@ -50,7 +50,7 @@
     },
     "cta": {
       "default": {
-        "value": "#3b82f6",
+        "value": "#ff00ff",
         "type": "color"
       },
       "emphasised": {
@@ -72,7 +72,7 @@
     },
     "primary": {
       "default": {
-        "value": "#3b82f6",
+        "value": "#ff00ff",
         "type": "color"
       },
       "emphasised": {
@@ -164,7 +164,7 @@
         "type": "color"
       },
       "emphasised": {
-        "value": "#3b82f6",
+        "value": "#ff00ff",
         "type": "color"
       },
       "muted": {
@@ -449,7 +449,7 @@
         "cta": {
           "default": {
             "border-color": {
-              "value": "#3b82f6",
+              "value": "#ff00ff",
               "type": "color"
             },
             "text-color": {
@@ -457,7 +457,7 @@
               "type": "color"
             },
             "background-color": {
-              "value": "#3b82f6",
+              "value": "#ff00ff",
               "type": "color"
             }
           },
@@ -491,7 +491,7 @@
           },
           "focus": {
             "border-color": {
-              "value": "#3b82f6",
+              "value": "#ff00ff",
               "type": "color"
             },
             "text-color": {
@@ -499,7 +499,7 @@
               "type": "color"
             },
             "background-color": {
-              "value": "#3b82f6",
+              "value": "#ff00ff",
               "type": "color"
             }
           }
@@ -507,7 +507,7 @@
         "primary": {
           "default": {
             "border": {
-              "value": "#3b82f6",
+              "value": "#ff00ff",
               "type": "color"
             },
             "text": {
@@ -515,7 +515,7 @@
               "type": "color"
             },
             "background": {
-              "value": "#3b82f6",
+              "value": "#ff00ff",
               "type": "color"
             },
             "quiet-background": {
@@ -561,7 +561,7 @@
           },
           "focus": {
             "border": {
-              "value": "#3b82f6",
+              "value": "#ff00ff",
               "type": "color"
             },
             "quiet-border": {
@@ -569,11 +569,11 @@
               "type": "color"
             },
             "text": {
-              "value": "#3b82f6",
+              "value": "#ff00ff",
               "type": "color"
             },
             "quiet-text": {
-              "value": "#3b82f6",
+              "value": "#ff00ff",
               "type": "color"
             },
             "background": {
@@ -743,15 +743,15 @@
         "selected": {
           "default": {
             "border-color": {
-              "value": "#3b82f6",
+              "value": "#ff00ff",
               "type": "color"
             },
             "text-color": {
-              "value": "#3b82f6",
+              "value": "#ff00ff",
               "type": "color"
             },
             "icon-color": {
-              "value": "#3b82f6",
+              "value": "#ff00ff",
               "type": "color"
             },
             "background-color": {
@@ -1087,7 +1087,7 @@
       },
       "navigation": {
         "background": {
-          "value": "#3b82f6",
+          "value": "#ff00ff",
           "type": "color"
         },
         "border": {
@@ -2377,7 +2377,7 @@
       },
       "soft": {
         "background-color": {
-          "value": "#3b82f6",
+          "value": "#ff00ff",
           "type": "color"
         },
         "text-color": {
@@ -2465,7 +2465,7 @@
     "selected": {
       "default": {
         "border-color": {
-          "value": "#3b82f6",
+          "value": "#ff00ff",
           "type": "color"
         }
       },
@@ -2757,7 +2757,7 @@
     "unselected": {
       "default": {
         "border-color": {
-          "value": "#3b82f6",
+          "value": "#ff00ff",
           "type": "color"
         },
         "background-color": {
@@ -2793,7 +2793,7 @@
     "selected": {
       "default": {
         "border-color": {
-          "value": "#3b82f6",
+          "value": "#ff00ff",
           "type": "color"
         },
         "background-color": {
@@ -3186,7 +3186,7 @@
       "default": {
         "solid": {
           "background-color": {
-            "value": "#3b82f6",
+            "value": "#ff00ff",
             "type": "color"
           },
           "icon-color": {
@@ -3196,7 +3196,7 @@
         },
         "outlined": {
           "border-color": {
-            "value": "#3b82f6",
+            "value": "#ff00ff",
             "type": "color"
           },
           "background-color": {
@@ -3204,7 +3204,7 @@
             "type": "color"
           },
           "icon-color": {
-            "value": "#3b82f6",
+            "value": "#ff00ff",
             "type": "color"
           }
         },
@@ -3214,7 +3214,7 @@
             "type": "color"
           },
           "icon-color": {
-            "value": "#3b82f6",
+            "value": "#ff00ff",
             "type": "color"
           }
         }
@@ -3639,7 +3639,7 @@
       "type": "sizing"
     },
     "icon-color": {
-      "value": "#3b82f6",
+      "value": "#ff00ff",
       "type": "color"
     }
   },
@@ -3793,7 +3793,7 @@
     "unselected": {
       "default": {
         "border-color": {
-          "value": "#3b82f6",
+          "value": "#ff00ff",
           "type": "color"
         },
         "background-color": {
@@ -3825,11 +3825,11 @@
     "selected": {
       "default": {
         "border-color": {
-          "value": "#3b82f6",
+          "value": "#ff00ff",
           "type": "color"
         },
         "background-color": {
-          "value": "#3b82f6",
+          "value": "#ff00ff",
           "type": "color"
         }
       },
@@ -3901,7 +3901,7 @@
     "primary": {
       "default": {
         "background-color": {
-          "value": "#3b82f6",
+          "value": "#ff00ff",
           "type": "color"
         },
         "text-color": {
@@ -3909,7 +3909,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "#3b82f6",
+          "value": "#ff00ff",
           "type": "color"
         },
         "icon-color": {
@@ -4517,7 +4517,7 @@
       }
     },
     "background-color": {
-      "value": "#3b82f6",
+      "value": "#ff00ff",
       "type": "color"
     },
     "font-family": {

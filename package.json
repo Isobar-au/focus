@@ -71,7 +71,7 @@
     "tsconfig-paths-webpack-plugin": "^4.0.1"
   },
   "scripts": {
-    "dev": "yarn copy-tokens && yarn resolve-tokens && yarn transform2CSS && yarn storybook",
+    "tokens": "yarn copy-tokens && yarn resolve-tokens && yarn transform2CSS",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
